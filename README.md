@@ -1,4 +1,4 @@
-## Stock-Analysis Dashboard
+##  Stock Market Time-Series
 Interactive dashboard for analyzing historical stock prices of major tech companies using Streamlit, Plotly, and Pandas.
 
 # Overview
